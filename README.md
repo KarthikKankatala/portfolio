@@ -1,6 +1,6 @@
 
 # OPEN IN BROWSER
-<h1 align="center"> <a href="https://nageswarrao-portfolio-f2eqqokpg-nageswarraos-projects.vercel.app/">Vemulapalli Nageswarrao</a></h1>
+<h1 align="center"> <a href="https://portfolio-topaz-chi-47.vercel.app/">Karthik Kankatala</a></h1>
 
 
 # Getting Started with Create React App
